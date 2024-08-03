@@ -1,0 +1,7 @@
+{
+  "command.version": "VelocityPlayerLimit version: %s",
+  "command.help": "See GitHub.",
+  "command.reload": "Reloading VelocityPlayerLimit...",
+  "command.toggle": "Toggle RealPlayerLimit: %b",
+  "server.full": "Velocity proxy server is full."
+}

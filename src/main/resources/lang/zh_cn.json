@@ -1,0 +1,7 @@
+{
+  "command.version": "VelocityPlayerLimit: %s",
+  "command.help": "看 GitHub",
+  "command.reload": "重新加载 VelocityPlayerLimit 中...",
+  "command.toggle": "真实玩家上限: %b",
+  "server.full": "Velocity 服务器满人了！"
+}
